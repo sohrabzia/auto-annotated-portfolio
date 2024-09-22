@@ -47,7 +47,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/tezBlaze.svg",
+            "url": "/images/tezBlaze.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
