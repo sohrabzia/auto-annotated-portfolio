@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Fast, Creative Web Solutions for Your Business'
     subtitle: >-
       At TezBlaze, we specialize in delivering cutting-edge web development and
       design solutions that ignite your digital presence. Our team combines
