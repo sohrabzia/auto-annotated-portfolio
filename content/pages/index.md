@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,13 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Fast, Creative Web Solutions for Your Business'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      At TezBlaze, we specialize in delivering cutting-edge web development and
+      design solutions that ignite your digital presence. Our team combines
+      speed and creativity to craft innovative websites tailored to your unique
+      needs. Whether you’re a startup or an established business, we’re here to
+      help you blaze a trail in the digital landscape with stunning designs and
+      seamless functionality. Let’s transform your vision into reality!
     styles:
       self:
         height: auto
@@ -84,7 +85,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -193,4 +194,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+addTitleSuffix: true
 ---
